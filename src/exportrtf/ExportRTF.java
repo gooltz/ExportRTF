@@ -15,7 +15,6 @@ import static com.tutego.jrtf.RtfText.*;
 import static com.tutego.jrtf.RtfUnit.CM;
 import java.awt.Desktop;
 import java.io.*;
-import java.util.Date;
 import com.tutego.jrtf.*;
 //import com.tutego.jrtf.RtfPicture.PictureType;
 
